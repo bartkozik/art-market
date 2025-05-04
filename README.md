@@ -20,6 +20,10 @@ Key responsibilities included:
 - Working within an existing React-based architecture and integrating seamlessly with backend APIs
 - **Implementing components based on high-fidelity Figma designs**, ensuring UI consistency and accessibility
 
+- The project followed an Agile workflow in Jira, and I maintained close coordination with the backend team to align data structures and API expectations. I collaborated with testers to cover edge cases in the KYC flow and handled UI logic for document handling and validation. Even though I joined mid-project, I quickly synchronized with the team and frequently took part in internal demo sessions to present progress and clarify interaction logic.
+
+Thanks to my prior experience in the finance sector, I was able to contribute to the UX of the banking module — ensuring that flows for data verification, transaction overview, and document uploads met real-world expectations of banking professionals. I also had a direct influence on the design of some interface components, working iteratively with designers to improve clarity and usability based on domain knowledge. Final visuals were built based on Figma.
+
 I worked on this project for approximately **4 months**, collaborating closely with backend developers and the product owner.
 
 ## 🛠️ Tech Stack
